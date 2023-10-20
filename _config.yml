@@ -3,8 +3,7 @@ title: Jeremy Patterson
 subtitle: Physical Hydrogeology
 email: jp128@rice.edu
 description: "Not all who wander are lost."
-baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://jrpatterson79.github.io" # the base hostname & protocol for your site
 author:
 street_address: Rice University
 city: Houston
