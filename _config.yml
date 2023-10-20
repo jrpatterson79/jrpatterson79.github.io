@@ -5,7 +5,8 @@ email: jp128@rice.edu
 description: "Not all who wander are lost."
 url: "https://jrpatterson79.github.io" # the base hostname & protocol for your site
 author:
-street_address: Rice University
+street_address_1: Rice University
+street_address_2: Earth, Environmental, and Planetary Sciences
 city: Houston
 state: TX
 zip_code: 77027
@@ -25,6 +26,7 @@ slack_url:
 twitter_url: https://twitter.com/FractureRockH20
 
 permalink: /:title/
+
 # build settings
 markdown: kramdown
 
