@@ -24,6 +24,7 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/FractureRockH20
 
+permalink: /:title/
 # build settings
 markdown: kramdown
 
