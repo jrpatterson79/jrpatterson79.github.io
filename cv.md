@@ -1,0 +1,28 @@
+---
+layout: page
+title: CV
+---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146764207-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146764207-1');
+</script>
+
+<!-- Post -->
+<section class="post">
+    <header class="major">
+
+    </header>
+        <!-- <span class="date"></span> -->
+        <p>Click the link below to download my CV</p>
+
+      <dd><a href="/assets/pubs/CV_Patterson_Jeremy_Oct_2023.pdf" download> October 2023 CV</a></dd>
+      <br/>
+
+      
+</section>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: About Me
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146764207-1"></script>
@@ -18,8 +18,8 @@ title: About Us
     <header class="major">
 
     </header>
-    <h3 class="name-header">Erik Bleich</h3>
-    <img class="bio-img" src="/assets/images/bio-pics/Bleich2022.jpg" alt="" height="280px" width="280px"/>
+    <h3 class="name-header">Jeremy Patterson</h3>
+    <img class="bio-img" src="/assets/images/bio-pics/river.jpg" alt="" height="280px" width="280px"/>
     <p class="bio-text">
     I am currently an NSF postdocotoral fellow at Rice University working with an environmental geophysics group in the Earth, Environmental, and Planetary Sciences Department. I consider myself a physical hydrogeologist with a research focus on characterizing the heterogeneous subsurface structures that controls flow and transport through the subsurface. This allows me to develop predictive models that improve environmental decision making.</p>
 
