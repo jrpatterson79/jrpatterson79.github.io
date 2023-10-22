@@ -21,7 +21,7 @@ title: CV
         <!-- <span class="date"></span> -->
         <p>Click the link below to download my CV</p>
 
-      <dd><a href="/assets/pubs/CV_Patterson_Jeremy_Oct_2023.pdf" download> CV - Updated Oct 2023</a></dd>
+      <dd><a href="/assets/pubs/CV_Patterson_Jeremy_Oct_2023.pdf"> CV - Updated Oct 2023</a></dd>
       <br/>
 
       
