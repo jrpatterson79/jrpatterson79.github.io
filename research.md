@@ -27,6 +27,7 @@ title: Research
 
     <header>
     <h4>Multi-Scale Aquifer Characterization</h4>
+    <p>The structures that control subsurface fluid flow and storage are heterogenous across a range of scales from sub-millimeter to kilometer. I develop and apply novel hydraulic characterization techniques characterize the physical properties that govern subsurface flow and transport and their associated uncertainties.</p>
     </header>
 
     <header>
@@ -36,7 +37,7 @@ title: Research
     <header>
     <h4>The Energy Transition</h4>
     </header>
-    <p>The subsurface will play a critical role in the transition to a net-zero carbon economy.</p>
+    <p>The subsurface will play a critical role in the transition to a net-zero carbon economy. Geothermal energy is one critical component </p>
 
 
       <dd>Patterson, Jeremy R. & Cardiff, M. 2023. <a href="/assets/pubs/gw_2023.pdf" download> Can Simple Analytical Models Capture Complex Fracture Hydraulics? Oscillatory Flow Tests Suggest Not. Groundwater</a></dd>
