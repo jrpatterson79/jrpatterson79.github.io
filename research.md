@@ -19,7 +19,14 @@ title: Research
 
     </header>
         <!-- <span class="date"></span> -->
-        <p>My research in hydrogeology has resulted in multiple first author publications focused on characterizing aquifer properties in fractured bedrock.</p>
+        <p>My research interests span the broad field of physical hydrogeology. I use a combination of field experiments and numerical modeling to better understand subsurface fluid flow and transport pathways to support environmental decision making and the transition to a net zero carbon economy.</p>
+
+    <h3>Research Themes</h3>
+
+    <h4>Multi-Scale Aquifer Characterization</h4>
+    <h4>Geophysical Data Integration<\h4>
+    <h4>Energy Transition</h4>
+
 
       <dd>Patterson, Jeremy R. & Cardiff, M. 2023. <a href="/assets/pubs/gw_2023.pdf" download> Can Simple Analytical Models Capture Complex Fracture Hydraulics? Oscillatory Flow Tests Suggest Not. Groundwater</a></dd>
       <br/>
