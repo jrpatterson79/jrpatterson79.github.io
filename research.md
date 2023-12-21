@@ -35,8 +35,9 @@ title: Research
     </header>
 
     <header>
-    <h4>The Energy Transition</h4>
-     <p>The subsurface will play a critical role in the transition to a net-zero carbon economy. Geothermal energy represents one component of a the diverse energy portfolio necessary to successfully achieve a net-zero carbon status. I am interested in <a href="/assets/pubs/tle_2017.pdf" download>describing geothermal reservoir properties</a>, dominant fluid flow pathways throughout the reservoir, and <a href="/assets/pubs/geothermics_2020.pdf" download>optimizing lifetime reservoir production strategies</a>. </p>
+    <h4>The Energy Transition
+    <p>The subsurface will play a critical role in the transition to a net-zero carbon economy. Geothermal energy represents one component of a the diverse energy portfolio necessary to successfully achieve a net-zero carbon status. I am interested in <a href="/assets/pubs/tle_2017.pdf" download>describing geothermal reservoir properties</a>, dominant fluid flow pathways throughout the reservoir, and <a href="/assets/pubs/geothermics_2020.pdf" download>optimizing lifetime reservoir production strategies</a>. </p>
+    </h4>
     </header>
    
       <dd>Patterson, Jeremy R. & Cardiff, M. 2023. <a href="/assets/pubs/gw_2023.pdf" download> Can Simple Analytical Models Capture Complex Fracture Hydraulics? Oscillatory Flow Tests Suggest Not. Groundwater</a></dd>
