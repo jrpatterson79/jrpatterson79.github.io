@@ -21,11 +21,22 @@ title: Research
         <!-- <span class="date"></span> -->
         <p>My research interests span the broad field of physical hydrogeology. I use a combination of field experiments and numerical modeling to better understand subsurface fluid flow and transport pathways to support environmental decision making and the transition to a net zero carbon economy.</p>
 
-    <h3>Research Themes</h3>
+    <header>
+    <h2>Research Themes</h2>
+    </header>
 
+    <header>
     <h4>Multi-Scale Aquifer Characterization</h4>
-    <h4>Geophysical Data Integration<\h4>
-    <h4>Energy Transition</h4>
+    </header>
+
+    <header>
+    <h4>Geophysical Data Integration</h4>
+    </header>
+
+    <header>
+    <h4>The Energy Transition</h4>
+    </header>
+    <p>The subsurface will play a critical role in the transition to a net-zero carbon economy.</p>
 
 
       <dd>Patterson, Jeremy R. & Cardiff, M. 2023. <a href="/assets/pubs/gw_2023.pdf" download> Can Simple Analytical Models Capture Complex Fracture Hydraulics? Oscillatory Flow Tests Suggest Not. Groundwater</a></dd>
