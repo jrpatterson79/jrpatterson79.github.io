@@ -31,15 +31,14 @@ title: Research
     </header>
 
     <header>
-    <h4>Geophysical Data Integration</h4>
+    <h4>Coupled Processes in Fractured Rock</h4>
     </header>
 
     <header>
     <h4>The Energy Transition</h4>
+     <p>The subsurface will play a critical role in the transition to a net-zero carbon economy. Geothermal energy represents one component of a the diverse energy portfolio necessary to successfully achieve a net-zero carbon status. I am interested in <a href="/assets/pubs/tle_2017.pdf" download>describing geothermal reservoir properties</a>, dominant fluid flow pathways throughout the reservoir, and <a href="/assets/pubs/geothermics_2020.pdf" download>optimizing lifetime reservoir production strategies</a>. </p>
     </header>
-    <p>The subsurface will play a critical role in the transition to a net-zero carbon economy. Geothermal energy is one critical component </p>
-
-
+   
       <dd>Patterson, Jeremy R. & Cardiff, M. 2023. <a href="/assets/pubs/gw_2023.pdf" download> Can Simple Analytical Models Capture Complex Fracture Hydraulics? Oscillatory Flow Tests Suggest Not. Groundwater</a></dd>
       <br/>
 
@@ -48,12 +47,5 @@ title: Research
 
       <dd>Patterson, Jeremy R. & Cardiff, M. 2022. <a href="/assets/pubs/seg_2022.pdf" download>Spectral Hydrology: Resolution and Uncertainty in Multi-Frequency Oscillatory Hydraulic Tomography. Aug 2022, International Meeting for Applied Geoscience and Energy Expanded Abstract. </a></dd>
       <br/>
-
-      <dd>Patterson, Jeremy R.; Cardiff, M.; Feigl, K.L. 2020. <a href="/assets/pubs/geothermics_2020.pdf" download> Optimizing Geothermal Production in Fractured Rock Reservoirs Under Uncertainty, Geothermics, 88</a></dd>
-      <br/>
-
-      <dd>Patterson, Jeremy. R.; Cardiff, M.; et al.; 2017. <a href="/assets/pubs/tle_2017.pdf" download>Geothermal Reservoir Characterization Using Distributed Temperature Sensing at Brady Geothermal Field, Nevada. The Leading Edge, 36(12)</a></dd>
-      <br/>
-
       
 </section>
