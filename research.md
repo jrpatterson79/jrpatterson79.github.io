@@ -37,8 +37,10 @@ title: Research
   <header>
   <h4>Geothermal Energy Development</h4>
   </header>
+  <p><a href="/assets/pubs/tle_2017.pdf"><span class="image left"><img src="/assets/images/pub_figs/tle.jpg" alt="" /></span></a>
+  The subsurface will play a critical role in the transition to a net-zero carbon economy, with geothermal energy representing one component of a diverse alternative energy portfolio. Distributed fiber optic sensing technology provides high-resolution spatial and temporal temperature data. These temperature data provide insights into hydraulic dynamics occurring within the instrumented borehole not easily seen with traditional borehole profiling techniques. Further, these data allow for high-resolution characterzation of reservoir thermal properties that are critical for predictive simulations of reservoir lifetime.</p>
   <p><a href="/assets/pubs/geothermics_2020.pdf"><span class="image left"><img src="/assets/images/pub_figs/geothermics.jpg" alt="" /></span></a>
-  The subsurface will play a critical role in the transition to a net-zero carbon economy, with geothermal energy representing one component of a diverse alternative energy portfolio. I am interested in <a href="/assets/pubs/tle_2017.pdf">describing geothermal reservoir properties</a>, dominant fluid flow pathways throughout the reservoir, and optimizing lifetime reservoir production strategies.</p>
+   I am interested in <a href="/assets/pubs/tle_2017.pdf">describing geothermal reservoir properties</a>, dominant fluid flow pathways throughout the reservoir, and optimizing lifetime reservoir production strategies.</p>
 
       <dd>Patterson, Jeremy R. & Cardiff, M. 2023. <a href="/assets/pubs/gw_2023.pdf" download> Can Simple Analytical Models Capture Complex Fracture Hydraulics? Oscillatory Flow Tests Suggest Not. Groundwater</a></dd>
       <br/>
