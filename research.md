@@ -22,24 +22,23 @@ title: Research
         <p>My research interests span the broad field of physical hydrogeology. I use a combination of field experiments and numerical modeling to better understand subsurface fluid flow and transport pathways to support environmental decision making and the transition to a net zero carbon economy.</p>
 
     <header>
-    <h2>Research Themes</h2>
+    <h2>Past and Current Projects:</h2>
     </header>
 
-    <header>
-    <h4>Multi-Scale Aquifer Characterization</h4>
-    <p>The structures that control subsurface fluid flow and storage are heterogenous across a range of scales from sub-millimeter to kilometer. I develop and apply novel hydraulic characterization techniques characterize the physical properties that govern subsurface flow and transport and their associated uncertainties.</p>
-    </header>
+  <header>
+  <h4>Aquifer Characterization and Parameter Uncertainty</h4>
+  </header>
+  <p>Characterizing fluid flow and storage properties of groundwater aquifers and their associated uncertainties across multiple scales remains a fundamental challenge in hydrogeology. Oscillatory hydraulic testing is a relatively new hydraulic testing method that is capable of multi-scale aquifer testing. In thi</p>
+    
+  <header>
+  <h4>Sedimentary Bedrock Fracture Characterization</h4>
+  </header>
 
-    <header>
-    <h4>Coupled Processes in Fractured Rock</h4>
-    </header>
+  <header>
+  <h4>Geothermal Energy Development</h4>
+  </header>
+  <p>The subsurface will play a critical role in the transition to a net-zero carbon economy. Geothermal energy represents one component of a diverse energy portfolio necessary to successfully achieve a net-zero carbon status. I am interested in <a href="/assets/pubs/tle_2017.pdf" download>describing geothermal reservoir properties</a>, dominant fluid flow pathways throughout the reservoir, and <a href="/assets/pubs/geothermics_2020.pdf" download>optimizing lifetime reservoir production strategies</a>. </p>
 
-    <header>
-    <h4>The Energy Transition
-    <p>The subsurface will play a critical role in the transition to a net-zero carbon economy. Geothermal energy represents one component of a the diverse energy portfolio necessary to successfully achieve a net-zero carbon status. I am interested in <a href="/assets/pubs/tle_2017.pdf" download>describing geothermal reservoir properties</a>, dominant fluid flow pathways throughout the reservoir, and <a href="/assets/pubs/geothermics_2020.pdf" download>optimizing lifetime reservoir production strategies</a>. </p>
-    </h4>
-    </header>
-   
       <dd>Patterson, Jeremy R. & Cardiff, M. 2023. <a href="/assets/pubs/gw_2023.pdf" download> Can Simple Analytical Models Capture Complex Fracture Hydraulics? Oscillatory Flow Tests Suggest Not. Groundwater</a></dd>
       <br/>
 
