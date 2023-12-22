@@ -26,13 +26,14 @@ title: Research
   </header>
 
   <header>
-  <h4>Aquifer Characterization and Parameter Uncertainty</h4>
-  </header>
-  <p>Characterizing the multi-scale fluid flow and storage properties of groundwater aquifers and their associated uncertainties remains a fundamental challenge in hydrogeology. Oscillatory hydraulic testing is a relatively new hydraulic testing method, that leverages analytical solutions  </p>
     
   <header>
   <h4>Sedimentary Bedrock Fracture Characterization</h4>
   </header>
+
+  <h4>Aquifer Characterization and Parameter Uncertainty</h4>
+  </header>
+  <p>Characterizing the multi-scale fluid flow and storage properties of groundwater aquifers and their associated uncertainties remains a fundamental challenge in hydrogeology. Oscillatory hydraulic testing is a relatively new hydraulic testing method, that leverages analytical solutions  </p>
 
   <header>
   <h4>Geothermal Energy Development</h4>
@@ -40,15 +41,7 @@ title: Research
   <p><a href="/assets/pubs/tle_2017.pdf"><span class="image left"><img src="/assets/images/pub_figs/tle.jpg" alt="" /></span></a>
   The subsurface will play a critical role in the transition to a net-zero carbon economy, with geothermal energy representing one component of a diverse alternative energy portfolio. Distributed fiber optic sensing technology provides high-resolution spatial and temporal temperature data. These temperature data provide insights into hydraulic dynamics occurring within the instrumented borehole not easily seen with traditional borehole profiling techniques. Further, these data allow for high-resolution characterzation of reservoir thermal properties that are critical for predictive simulations of reservoir lifetime.</p>
   <p><a href="/assets/pubs/geothermics_2020.pdf"><span class="image left"><img src="/assets/images/pub_figs/geothermics.jpg" alt="" /></span></a>
-   I am interested in <a href="/assets/pubs/tle_2017.pdf">describing geothermal reservoir properties</a>, dominant fluid flow pathways throughout the reservoir, and optimizing lifetime reservoir production strategies.</p>
-
-      <dd>Patterson, Jeremy R. & Cardiff, M. 2023. <a href="/assets/pubs/gw_2023.pdf" download> Can Simple Analytical Models Capture Complex Fracture Hydraulics? Oscillatory Flow Tests Suggest Not. Groundwater</a></dd>
-      <br/>
-
-      <dd>Patterson, Jeremy R. & Cardiff, M. 2022. <a href="/assets/pubs/gw_2022.pdf" download> Aquifer Characterization and Uncertainty in Multi-Frequency Oscillatory Flow Tests: Approaches and Insights, Groundwater, 60(2) </a></dd>
-      <br/>
-
-      <dd>Patterson, Jeremy R. & Cardiff, M. 2022. <a href="/assets/pubs/seg_2022.pdf" download>Spectral Hydrology: Resolution and Uncertainty in Multi-Frequency Oscillatory Hydraulic Tomography. Aug 2022, International Meeting for Applied Geoscience and Energy Expanded Abstract. </a></dd>
-      <br/>
+  The continental U.S. is situated over an estimated 100 GW of geothermal; however, this energy supply is largely underutilized because of the high risk and capital costs associated with bringing a geothermal plant online. In this work I combined an analytical heat transfer model and an economic model to explore the factors that impact the lifetime performance of an idealized geothermal reservoir. This work showed that the surface area available for heat exchange (i.e., the number of hydraulically active fractures) exerts the largest control on reservoir lifetime profitability, highlighting the need to constrain dominant flow paths in geothermal settings.
+  </p>
       
 </section>
