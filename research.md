@@ -19,10 +19,10 @@ title: Research
 
   </header>
       <!-- <span class="date"></span> -->
-      <p><span class="image left"><img src="/assets/images/bio_pics/jpatt.jpg" alt="" /></span>
+      <p><span class="image fit"><img src="/assets/images/bio_pics/jpatt.jpg" alt="" /></span>
       I'm a broadly trained physical hydrogeologist that specializes in the integration of hydrologic field measurements with hydrologic modeling across mulitple scales. My research explores how the spatial distribution and variability of aquifer flow and transport properties impacts subsurface fluid flows, storage, and transport across a broad range of geologic settings. For more details, see my <a href="/assets/pubs/CV_Patterson_Jeremy.pdf">CV</a>, <a href="https://scholar.google.com/citations?user=qOKXiPkAAAAJ&hl=en&oi=ao">Google Scholar</a>, or the project synopses below.</p>
   <hr />
-  
+
   <header>
   <h2>Past and Current Projects:</h2>
   </header>
