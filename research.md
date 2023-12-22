@@ -17,18 +17,18 @@ title: Research
 <section class="post">
     <header class="major">
 
-    </header>
-        <!-- <span class="date"></span> -->
-        <p>My research interests span the broad field of physical hydrogeology. I use a combination of field experiments and numerical modeling to better understand subsurface fluid flow and transport pathways to support environmental decision making and the transition to a net zero carbon economy.</p>
-
-    <header>
-    <h2>Past and Current Projects:</h2>
-    </header>
+  </header>
+      <!-- <span class="date"></span> -->
+      <p><span class="image left"><img src="/assets/images/bio_pics/jpatt.jpg" alt="" /></span>
+      I'm a broadly trained physical hydrogeologist that specializes in the integration of hydrologic field measurements with hydrologic modeling across mulitple scales. My research explores how the spatial distribution and variability of aquifer flow and transport properties impacts subsurface fluid flows, storage, and transport across a broad range of geologic settings. For more details, see my <a href="/assets/pubs/CV_Patterson_Jeremy.pdf">CV</a>, <a href="https://scholar.google.com/citations?user=qOKXiPkAAAAJ&hl=en&oi=ao">Google Scholar</a>, or the project synopses below.</p>
+  <header>
+  <h2>Past and Current Projects:</h2>
+  </header>
 
   <header>
   <h4>Aquifer Characterization and Parameter Uncertainty</h4>
   </header>
-  <p>Characterizing fluid flow and storage properties of groundwater aquifers and their associated uncertainties across multiple scales remains a fundamental challenge in hydrogeology. Oscillatory hydraulic testing is a relatively new hydraulic testing method that is capable of multi-scale aquifer testing. In thi</p>
+  <p>Characterizing the multi-scale fluid flow and storage properties of groundwater aquifers and their associated uncertainties remains a fundamental challenge in hydrogeology. Oscillatory hydraulic testing is a relatively new hydraulic testing method, that leverages analytical solutions  </p>
     
   <header>
   <h4>Sedimentary Bedrock Fracture Characterization</h4>
@@ -37,7 +37,8 @@ title: Research
   <header>
   <h4>Geothermal Energy Development</h4>
   </header>
-  <p>The subsurface will play a critical role in the transition to a net-zero carbon economy. Geothermal energy represents one component of a diverse energy portfolio necessary to successfully achieve a net-zero carbon status. I am interested in <a href="/assets/pubs/tle_2017.pdf" download>describing geothermal reservoir properties</a>, dominant fluid flow pathways throughout the reservoir, and <a href="/assets/pubs/geothermics_2020.pdf" download>optimizing lifetime reservoir production strategies</a>. </p>
+  <p><a href="/assets/pubs/geothermics_2020.pdf"><span class="image left"><img src="/assets/images/pub_figs/geothermics.jpg" alt="" /></span></a>
+  The subsurface will play a critical role in the transition to a net-zero carbon economy, with geothermal energy representing one component of a diverse alternative energy portfolio. I am interested in <a href="/assets/pubs/tle_2017.pdf">describing geothermal reservoir properties</a>, dominant fluid flow pathways throughout the reservoir, and optimizing lifetime reservoir production strategies.</p>
 
       <dd>Patterson, Jeremy R. & Cardiff, M. 2023. <a href="/assets/pubs/gw_2023.pdf" download> Can Simple Analytical Models Capture Complex Fracture Hydraulics? Oscillatory Flow Tests Suggest Not. Groundwater</a></dd>
       <br/>
