@@ -19,7 +19,7 @@ title: Research
 
   </header>
       <!-- <span class="date"></span> -->
-      <p><span class="image right"><img src="/assets/images/bio_pics/jpatt.jpg" alt="" /></span>
+      <p><span class="image fit"><img src="/assets/images/bio_pics/jpatt.jpg" width="500" height="auto" alt="" /></span>
       I'm a broadly trained physical hydrogeologist that specializes in the integration of hydrologic field measurements with hydrologic modeling across mulitple scales. My research explores how the spatial distribution and variability of aquifer flow and transport properties impacts subsurface fluid flows, storage, and transport across a broad range of geologic settings. For more details, see my <a href="/assets/pubs/CV_Patterson_Jeremy.pdf">CV</a>, <a href="https://scholar.google.com/citations?user=qOKXiPkAAAAJ&hl=en&oi=ao">Google Scholar</a>, or the project synopses below.</p>
   <hr />
 
@@ -31,11 +31,11 @@ title: Research
   <h4>Sedimentary Bedrock Fracture Characterization</h4>
   </header>
   <hr />
-  
+
   <header>
   <h4>Aquifer Characterization and Parameter Uncertainty</h4>
   </header>
-  <p><a href="/assets/pubs/gw_2022.pdf"><span class="image left"><img src="/assets/images/pub_figs/gw2022.png" alt="" /></span></a>
+  <p><a href="/assets/pubs/gw_2022.pdf"><span class="image fit"><img src="/assets/images/pub_figs/gw2022.png" alt="" /></span></a>
   Characterizing the multi-scale fluid flow and storage properties of groundwater aquifers and their associated uncertainties remains a fundamental challenge in hydrogeology. Oscillatory hydraulic testing is a relatively new hydraulic testing method, that leverages analytical solutions  </p>
   <hr />
 
