@@ -30,6 +30,12 @@ title: Research
   <header>
   <h4>Sedimentary Bedrock Fracture Characterization</h4>
   </header>
+  <p><a href="/assets/pubs/gw_2023.pdf"><span class="image left"><img src="/assets/images/pub_figs/gw2023.png" alt="" /></span></a>
+  Fractured sedimentary bedrock aquifers are important water supply resources and popular targets for wastewater injection. Fractures dominate flow and transport in these aquifers; therefore, characterizing fracture hydraulic properties is a priority. This work uses oscillatory flow testing to characterize a single fracture at a research site dedicated to fundamental research in fractured sedimentary rock, and shows an apparent period-dependence in the returned parameter estimates, indicating the presence of complex processes occurring within the fracture not captured by simple analytical models. 
+  </p>
+  <p><a href="/assets/pubs/gw_2023.pdf"><span class="image left"><img src="/assets/images/pub_figs/gw2023.png" alt="" /></span></a>
+
+  </p>
   <hr />
 
   <header>
