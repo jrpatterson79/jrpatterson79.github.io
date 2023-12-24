@@ -35,7 +35,7 @@ title: Research
   <header>
   <h4>Aquifer Characterization and Parameter Uncertainty</h4>
   </header>
-  <p><a href="/assets/pubs/gw_2022.pdf"><span class="image fit"><img src="/assets/images/pub_figs/gw2022.png" alt="" /></span></a>
+  <p><a href="/assets/pubs/gw_2022.pdf"><span class="image left"><img src="/assets/images/pub_figs/gw2022.png" alt="" /></span></a>
   Characterizing the multi-scale fluid flow and storage properties of groundwater aquifers and their associated uncertainties remains a fundamental challenge in hydrogeology. Oscillatory hydraulic testing is a novel hydraulic characterization technique that is capable of testing aquifers at multiple scales by alternating pumping and injection in a regular manner to create a periodic pressure signal. This work develops a numerical inversion strategy that estimates effective aquifer properties and their associated uncertainty for fully confined and leaky confined aquifers. The results of this analysis shows the tradeoff between testing time and parameter uncertainty and highlights that increased sampling frequency produces the largest reduction in parameter uncertainties.</p>
   <hr />
 
