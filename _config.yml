@@ -1,15 +1,15 @@
 # site settings
 title: Jeremy Patterson
 subtitle: Physical Hydrogeology
-email: jp128@rice.edu
+email: pattersonjr@uncw.edu
 description: "Not all who wander are lost."
 url: "https://jrpatterson79.github.io" # the base hostname & protocol for your site
 author:
-street_address_1: Rice University
-street_address_2: Earth, Environmental, and Planetary Sciences
-city: Houston
-state: TX
-zip_code: 77027
+street_address_1: University of North Carolina - Wilmington
+street_address_2: Dept. of Earth and Ocean Sciences
+city: Wilmington
+state: NC
+zip_code: 28403
 country: 
 phone: 970-214-9643
 
