@@ -29,16 +29,19 @@ title: Publications
         <dd>Patterson, J.R., Cardiff, M. (2025). Multi-Frequency Oscillatory Hydraulic Tomography Improves Heterogeneity Imaging and Resolution and Reduces Uncertainty. <em>Water Resources Research</em> 61(5), e2024WR039606. <a href = "https://doi.org/10.1029/2024WR039606"> https://doi.org/10.1029/2024WR039606</a> <a href = "/assets/pubs/wrr_2025.pdf">. [PDF]</a></dd>
 
         <dd>Patterson, J.R., Cardiff, M. (2022). Aquifer Characterization and Uncertainty in Multi-Frequency Oscillatory Flow Tests: Approaches and Insights. <em>Groundwater</em>, 60(2), 180-191. <a href = "https://doi.org/10.1111/gwat.13134">https://doi.org/10.1111/gwat.13134</a>. <a href = "/assets/pubs/gw_2022.pdf">[PDF]</a></dd>
+        <br/>
 
         <h4><u>Fracture Hydrogeology:</u></h4>
         <dd>Patterson, J.R., Cardiff, M. (2023). Stiff, Solid, and Smooth? Complex Fracture Hydraulics Revealed through Oscillatory Flow Interference Testing. <em>Water Resources Research</em>, 59(11), e2023WR034621. <a href = "https://doi.org/10.1029/2023WR034621">https://doi.org/10.1029/2023WR034621</a>. <a href = "/assets/pubs/wrr_2023.pdf">[PDF]</a></dd>
 
         <dd>Patterson, J.R., Cardiff, M. (2023). Can Simple Analytical Models Capture Complex Fracture Hydraulics? Oscillatory Flow Tests Suggest Not. <em>Groundwater</em>, 61(6), 816-833. <a href = "https://doi.org/10.1111/gwat.13297">https://doi.org/10.1111/gwat.13297</a>. <a href = "/assets/pubs/gw_2023.pdf">[PDF]</a></dd>
+        <br/>
 
         <h4><u>Hydrogeophysics:</u></h4>
         <dd>Shadoan, T.A.<sup>*</sup>, Ajo-Franklin, J.B., Patterson, J.R., Zhu, T. (2026). Active-Seismic Monitoring of Reservoir Pressure Changes in an Analog Reservoir. <em>Geophysics</em>, 91(1), M1-M13. <a href = "https://doi.org/10.1190/GEO-2024-0471">https://doi.org/10.1190/GEO-2024-0471</a></dd>
 
         <dd>Chamarczuk, M., Ajo-Franklin, J., Sobolevskaia, V.<sup>*</sup>, Patterson, J.R. (2024). Tidally Modulated Seismic Velocity Changes Observed Using Submarine Dark Fiber and Virtual-Source Method. <em>Geophysics</em>, 89(5), L33-L48. <a href = "https://doi.org/10.1190/geo2023-0641.1">https://doi.org/10.1190/geo2023-0641.1</a>. <a href = "/assets/pubs/geophysics_2024.pdf">[PDF]</a></dd>
+        <br/>
 
         <h4><u>Geothermal Energy:</u></h4>
         <dd>Ma, Y., Ajo-Franklin, J., Chamarczuk, M., Zhu, X.<sup>*</sup>, Patterson, J.R., Rodriguez, I.V., Podrasky, D., Coleman, T., Maldaner, T., Finnila, A. (2026). Geothermal Reservoir Characterization at Utah FORGE Using DAS Microseismic Imaging. <em>Journal of Geophysical Research: Solid Earth</em>, 131(1), e2025JB032603. <a href = "https://doi.org/10.1029/2025JB032603">https://doi.org/10.1029/2025JB032603</a>. <a href = "/assets/pubs/jgr_2026.pdf">[PDF]</a></dd>
